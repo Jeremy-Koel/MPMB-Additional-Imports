@@ -1,5 +1,5 @@
 var iFileName = "bs_20150413_d20Modern.js";
-RequiredSheerVersion(12.999);
+RequiredSheetVersion(12.999);
 // This file adds the content from the Behind the Screens: My New D20 Modern Campaign article to MPMB's Character Record Sheet
 
 // Define the Source
