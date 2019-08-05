@@ -1,4 +1,4 @@
-var iFileName = "t_2016325_steampunkEquipment";
+var iFileName = "t_2016325_steampunkEquipment.js";
 RequiredSheetVersion(12.999);
 // This file adds content from Tribality's Shawn Ellsworth's Steampunk Equipment for D&D 5th Edition to MPMB's Character Record Sheet
 
