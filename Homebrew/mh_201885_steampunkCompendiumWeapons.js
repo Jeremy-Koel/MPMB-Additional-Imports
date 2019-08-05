@@ -182,7 +182,7 @@ WeaponsList ["concussion grenade/mine"] =  {
 	};
 	
 WeaponsList ["corrosive grenade/mine"] =  {		
-		regExpSearch :  /^(?=.*(corrosive|acid|solvent)(?=.*(grenade|mine|hand bomb)).*$/i,
+		regExpSearch :  /^(?=.*(corrosive|acid|solvent))(?=.*(grenade|mine|hand bomb)).*$/i,
 		name : "Corrosive Grenade/Mine",
 		source : [["MH:SC", 68]],
 		list : "ranged",
