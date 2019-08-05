@@ -393,7 +393,7 @@ WeaponsList ["boot knife"] =  {
 	};
 	
 WeaponsList ["ball & chain"] =  {		
-		regExpSearch :  /^(?=.*(ball|spike|blade|kunai))(?=.*(&|and))(?=.*(chain|rope)).*$/i,
+		regExpSearch :  /^(?=.*(ball|spike|blade|kunai))(?=.*(\&|and))(?=.*(chain|rope)).*$/i,
 		name : "Ball & Chain",
 		source : [["MH:SC", 67]],
 		list : "melee",
